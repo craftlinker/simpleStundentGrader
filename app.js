@@ -19,6 +19,6 @@ document.getElementById("postGrade").innerHTML = "Your Grade Is an C";
 document.getElementById("postGrade").innerHTML = "Your Grade Is an D";
 
 }else{
-document.getElementById("postGrade").innerHTML = "Your Grade Is an D"; 
+document.getElementById("postGrade").innerHTML = "Your Grade Is an F"; 
 }
 }
